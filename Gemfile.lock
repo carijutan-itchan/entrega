@@ -66,6 +66,7 @@ GEM
       i18n (>= 1.6, < 2)
       minitest (>= 5.1)
       tzinfo (~> 2.0)
+    alba (2.3.0)
     bcrypt (3.1.18)
     bootsnap (1.16.0)
       msgpack (~> 1.2)
@@ -195,6 +196,7 @@ PLATFORMS
   x86_64-darwin-21
 
 DEPENDENCIES
+  alba (~> 2.3)
   bootsnap
   debug
   devise (~> 4.9, >= 4.9.2)

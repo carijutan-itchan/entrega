@@ -16,6 +16,9 @@ gem "puma", "~> 5.0"
 gem 'devise', '~> 4.9', '>= 4.9.2'
 gem 'devise-jwt'
 
+# JSON serializer
+gem 'alba', '~> 2.3'
+
 # Build JSON APIs with ease [https://github.com/rails/jbuilder]
 # gem "jbuilder"
 
